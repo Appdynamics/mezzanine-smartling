@@ -5,7 +5,7 @@ Mezzanine Smartling Translations
 Mezzanine Smartling Translations allows you to save and upload the 
 Mezzanine Page and Django model contents to Smartling for translations. When the translation is finished the page is saved into an admin view in which it pends for site specific approval.
 
-This packages works with both mezzanine Page models and standard Django models.
+This packages works with both Mezzanine Page models and standard Django models.
 
 Quick start
 -----------
