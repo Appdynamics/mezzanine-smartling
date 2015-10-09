@@ -7,6 +7,12 @@ Mezzanine Page and Django model contents to Smartling for translations. When the
 
 This packages works with both Mezzanine Page models and standard Django models.
 
+Installation
+------------
+::
+    pip install mezzanine-smartling
+
+
 Quick start
 -----------
 
