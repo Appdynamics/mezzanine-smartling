@@ -1,0 +1,1 @@
+https://github.com/Smartling/api-sdk-python/tarball/master#egg=SmartlingApiSdk-1.2.5
