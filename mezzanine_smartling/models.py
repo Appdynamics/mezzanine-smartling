@@ -16,9 +16,9 @@ from django.db.models.fields.files import ImageField, ImageFieldFile
 from django.contrib.sites.models import Site
 from mezzanine.core.models import OrderableBase
 from mezzanine.utils.sites import current_site_id
+from mezzanine_smartling import manager as page_translations_manager, get_registered_models
 from .smartlingapi import upload_smartling_file
 #from south.modelsinspector import add_introspection_rules
-from mezzanine_smartling import manager as page_translations_manager, get_registered_models
 
 
 def import_translatable_models():
