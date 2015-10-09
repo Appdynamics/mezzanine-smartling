@@ -6,7 +6,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as readme:
 
 # allow setup.py to be run from any path
 os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
-#os.system("pip install -e 'git+https://github.com/Smartling/api-sdk-python/tarball/master#egg=SmartlingApiSdk-1.2.5'")
+
 setup(
     name='mezzanine-smartling',
     version='0.1',
